@@ -33,6 +33,7 @@ function App() {
             enterPressed={enterPressed}
             callback={() => setYesClicked(true)}
           />
+          
         </div>
       )}
     </div>
